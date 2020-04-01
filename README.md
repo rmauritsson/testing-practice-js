@@ -26,8 +26,6 @@ This program was made using this technologies
 
 * Jair Jaramillo: [Github](https://github.com/jairjy), [Twitter](https://twitter.com/jairjy)
 
-Project Link: [https://github.com/rmauritsson/todo-list](https://github.com/rmauritsson/todo-list)
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
