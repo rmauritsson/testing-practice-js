@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Test driven development practice testing using Jest and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmauritsson/testing-practice-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmauritsson/testing-practice-js/issues"
+  },
+  "homepage": "https://github.com/rmauritsson/testing-practice-js#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
