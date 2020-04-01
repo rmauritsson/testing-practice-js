@@ -3,7 +3,6 @@
 
 ![screenshot](./app_screenshot.png)
 
-
 ## About The Project
 
 This project introduces the concept of test driven development. We used a test runner called jest to make tests of the classes and functions we developed
@@ -25,8 +24,6 @@ This program was made using this technologies
 * Leonard Rwai Kanyesigye: [Github](https://github.com/rmauritsson), [Twitter](https://twitter.com/leokanye)
 
 * Jair Jaramillo: [Github](https://github.com/jairjy), [Twitter](https://twitter.com/jairjy)
-
-Project Link: [https://github.com/rmauritsson/todo-list](https://github.com/rmauritsson/todo-list)
 
 <!-- ACKNOWLEDGEMENTS -->
 
